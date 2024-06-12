@@ -1,5 +1,7 @@
 <h1 align="center"> Calculadora</h1>
 
+<p>Calculadora simples em JavaScript</p>
+
 <p align="center">
   <img alt="Calculadora" src="assets/calculadora.png" width="100%">
 </p>
